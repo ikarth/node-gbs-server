@@ -1,0 +1,14 @@
+{
+  "name": "express-ecoserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Karth",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.1"
+  }
+}
